@@ -5,16 +5,14 @@ Lapse Kernel Exploit für PS4 FW 7.00 - 9.60 - WIP
 Sehr schnell und zuverlässig, kann aber KP
 
 
-Warnung: Verwenden Sie es nicht standardmäßig - oder besser noch, verwenden Sie es überhaupt nicht, bis ich es für stabil erklärt habe. 
-Es gibt Probleme mit bestimmten Spielen, wie z.B. Blackscreens, Probleme mit Speicherdaten. 
-Wenn Sie die Betas nutzen wollen, tun Sie dies auf eigene Gefahr!
+Warnung: Wenn Sie die Betas nutzen wollen, tun Sie dies auf eigene Gefahr!
 
 ## Features
 
 - **Automatische Erkennung:** Erkennt automatisch die Firmware-Version.
 - **WebKit Exploit (PSFree):** Einstiegspunkt über den Webbrowser der Konsole.
 - **Kernel Exploit (Lapse):** Eskaliert Privilegien auf Kernel-Ebene.
-- **Payload Loader:** Nach erfolgreichem Kernel-Exploit wird der ps4-hen geladen.
+- **Payload Loader:** Nach erfolgreichem Kernel-Exploit wird der PS4-HEN geladen.
 
 
 
