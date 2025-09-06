@@ -2,7 +2,6 @@
 
 Lapse Kernel Exploit für PS4 FW 7.00 - 9.60
 
-Sehr schnell und zuverlässig, kann aber KP
 
 ## Features
 
